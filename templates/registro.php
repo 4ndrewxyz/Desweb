@@ -31,7 +31,7 @@
                 <input type="text" name="lastname" placeholder="Apellido" required>
                 <input type="email" name="email" placeholder="Correo" required>
                 <input type="password" name="password" placeholder="Contraseña" required>
-                <input type="tel" name="phone" placeholder="Phone" required>
+                <input type="tel" name="phone" placeholder="Telefono" required>
                 <input type="org" name="org" placeholder="Organizacion / Escuela" required>
                 <input type="text" name="state_country" placeholder="Estado/Pais" required>
                 <button type="submit">Registrarme</button>
