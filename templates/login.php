@@ -31,9 +31,7 @@
         <label for="password">Password:</label><br>
         <input type="password" id="password" name="password" required><br><br>
         <a href="#">Olvidaste tu contraseña?</a>
-        <!-- <button type="submit">Login</button>  DE MIENTRAS QUE MANDE AL DASHBOARD-->
-        <BR>
-        <a href="dashboard.php" class="button-link"> Login</button> </a> <br>
+       <button type="submit">Login</button> 
         <a href="registro.php">No tienes cuenta? Registrate</a>
       </form>
     </div>

@@ -78,6 +78,7 @@ html{
 .servicio img{
     height: auto;
     width: 100%;
+    filter: brightness(86%);
 }
 
 .contenido p{
@@ -114,6 +115,7 @@ html{
     height: calc(33vh + 3vw);
     transition: 1s, width 0.3s ease, transform 0.3s ease; /* Add transition for smooth effect */
     object-fit: cover;
+    filter: brightness(70%);
 }
 
 .productos-categoria h3 {
